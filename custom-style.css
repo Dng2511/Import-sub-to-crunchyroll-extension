@@ -1,0 +1,11 @@
+#vilosVttJs #custom-sub {
+    font-size: 24px;
+    color: white;
+    text-align: center;
+    text-shadow: 2px 2px 6px black;
+    position: absolute;
+    bottom: 10%;
+    width: 100%;
+    pointer-events: none;
+  }
+  
