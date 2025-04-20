@@ -11,14 +11,14 @@
     {
       "matches": ["https://static.crunchyroll.com/vilos-v2/web/vilos/player.html*"],
       "js": ["src/content/inject-overlay.js"],
-      "css": ["public/custom-style.css"],
+      "css": ["public/default-font-style.css"],
       "run_at": "document_idle",
       "all_frames": true
     },
     {
       "matches": ["https://static.vrv.co/vilos/player.html*"],
       "js": ["src/content/inject-overlay.js"],
-      "css": ["public/custom-style.css"],
+      "css": ["public/default-font-style.css"],
       "run_at": "document_idle",
       "all_frames": true
     }
@@ -27,5 +27,13 @@
     "16": "public/icons/icon.png",
     "48": "public/icons/icon.png",
     "128": "public/icons/icon.png"
+  },
+  "web_accessible_resources": [
+  {
+    "resources": ["data/*"],
+    "matches": ["<all_urls>"]
   }
+]
+
+
 }
