@@ -1,0 +1,1452 @@
+{
+  "info": {},
+  "styles": [
+    [
+      "ASSDefault",
+      "Segoe UI",
+      "70",
+      "&H00FFFFFF",
+      "&H000000FF",
+      "&H00320B35",
+      "&H00000000",
+      "-1",
+      "0",
+      "0",
+      "0",
+      "100",
+      "100",
+      "0",
+      "0",
+      "1",
+      "2",
+      "0",
+      "2",
+      "10",
+      "10",
+      "30",
+      "1"
+    ]
+  ],
+  "events": [
+    {
+      "start": 0,
+      "end": 1372.1,
+      "text": ""
+    },
+    {
+      "start": 1.63,
+      "end": 7.17,
+      "text": "THÁNG BẢY"
+    },
+    {
+      "start": 44.21,
+      "end": 46.17,
+      "text": "{\\i1}Mình đã nghĩ anh là bạn tâm giao của mình.{\\i}"
+    },
+    {
+      "start": 48.38,
+      "end": 50.13,
+      "text": "{\\i1}Không có ai...{\\i}"
+    },
+    {
+      "start": 51.13,
+      "end": 52.47,
+      "text": "{\\i1}hơn anh cả.{\\i}"
+    },
+    {
+      "start": 54.55,
+      "end": 56.06,
+      "text": "Ô, em vẫn còn ở đây à?"
+    },
+    {
+      "start": 56.14,
+      "end": 57.77,
+      "text": "Anh?"
+    },
+    {
+      "start": 59.31,
+      "end": 61.23,
+      "text": "Ở trường phải gọi là \"thầy\" chứ."
+    },
+    {
+      "start": 61.73,
+      "end": 62.6,
+      "text": "Hana."
+    },
+    {
+      "start": 64.36,
+      "end": 67.36,
+      "text": "Và anh không nên gọi em là Hana mà, thầy."
+    },
+    {
+      "start": 67.44,
+      "end": 69.07,
+      "text": "Ồ, phải rồi."
+    },
+    {
+      "start": 69.4,
+      "end": 70.4,
+      "text": "Em Yasuraoka."
+    },
+    {
+      "start": 71.24,
+      "end": 72.49,
+      "text": "Nghe cứ không đúng."
+    },
+    {
+      "start": 72.91,
+      "end": 75.95,
+      "text": "Anh biết em từ khi em còn bé mà."
+    },
+    {
+      "start": 78.5,
+      "end": 80.03999999999999,
+      "text": "Thầy giáo Kanai."
+    },
+    {
+      "start": 82.33,
+      "end": 84.53999999999999,
+      "text": "Cô giáo Minagawa!"
+    },
+    {
+      "start": 84.71000000000001,
+      "end": 87.13,
+      "text": "Ồ, xin chào,"
+    },
+    {
+      "start": 87.96000000000001,
+      "end": 88.96000000000001,
+      "text": "em Yasuraoka."
+    },
+    {
+      "start": 90.92,
+      "end": 92.09,
+      "text": "Chào cô ạ."
+    },
+    {
+      "start": 92.25999999999999,
+      "end": 94.3,
+      "text": "Cô cần thứ gì à?"
+    },
+    {
+      "start": 94.39,
+      "end": 97.85,
+      "text": "Ồ, vâng. Thầy quên thứ này\\Ntrong phòng giáo viên."
+    },
+    {
+      "start": 98.1,
+      "end": 100.35,
+      "text": "Là tài liệu của thầy ạ."
+    },
+    {
+      "start": 100.43,
+      "end": 103.77000000000001,
+      "text": "Ồ, cảm ơn cô rất nhiều."
+    },
+    {
+      "start": 112.57,
+      "end": 113.78,
+      "text": "Cậu ở đây à?"
+    },
+    {
+      "start": 114.7,
+      "end": 115.53,
+      "text": "Cảm ơn."
+    },
+    {
+      "start": 115.62,
+      "end": 119.24000000000001,
+      "text": "- Tôi đã thấy hết bài đăng của thầy rồi.\\N- Ôi, thật ngại quá."
+    },
+    {
+      "start": 122.29,
+      "end": 123.16,
+      "text": "Hử."
+    },
+    {
+      "start": 124.5,
+      "end": 126.25,
+      "text": "Tôi cứ nghĩ cậu sẽ khóc chứ."
+    },
+    {
+      "start": 126.58,
+      "end": 127.5,
+      "text": "Ngu ngốc."
+    },
+    {
+      "start": 130.8,
+      "end": 132.38,
+      "text": "{\\i1}Tình yêu vô vọng.{\\i}"
+    },
+    {
+      "start": 133.01,
+      "end": 134.18,
+      "text": "{\\i1}Tình yêu đau đớn.{\\i}"
+    },
+    {
+      "start": 135.59,
+      "end": 136.8,
+      "text": "{\\i1}Mối tình đơn phương.{\\i}"
+    },
+    {
+      "start": 138.68,
+      "end": 141.18,
+      "text": "{\\i1}Chúng thực sự đẹp đến thế sao?{\\i}"
+    },
+    {
+      "start": 145.35,
+      "end": 147.23,
+      "text": "{\\i1}Mình không nghĩ vậy.{\\i}"
+    },
+    {
+      "start": 175.68,
+      "end": 177.51,
+      "text": "{\\i1}Bọn mình đang hẹn hò.{\\i}"
+    },
+    {
+      "start": 179.26,
+      "end": 180.26,
+      "text": "{\\i1}Nhưng mà...{\\i}"
+    },
+    {
+      "start": 180.97,
+      "end": 182.02,
+      "text": "Anh."
+    },
+    {
+      "start": 184.73,
+      "end": 185.69,
+      "text": "Cô Akane."
+    },
+    {
+      "start": 188.23,
+      "end": 192.19,
+      "text": "{\\i1}Bọn mình là sự thay thế của đối phương...{\\i}"
+    },
+    {
+      "start": 194.24,
+      "end": 195.4,
+      "text": "{\\i1}cho một ai đó khác.{\\i}"
+    },
+    {
+      "start": 289.37,
+      "end": 291.96,
+      "text": "THÁNG TƯ"
+    },
+    {
+      "start": 294.75,
+      "end": 297.09000000000003,
+      "text": "{\\i1}Đó là ngày đầu tiên mình học trung học.{\\i}"
+    },
+    {
+      "start": 298.8,
+      "end": 300.3,
+      "text": "Các em về chỗ nào."
+    },
+    {
+      "start": 302.09,
+      "end": 306.43,
+      "text": "{\\i1}Mình biết Anh đang bắt đầu công việc mới{\\i}\\N{\\i1}tại đây.{\\i}"
+    },
+    {
+      "start": 307.1,
+      "end": 310.31,
+      "text": "{\\i1}Mình chưa từng tưởng tượng{\\i}\\N{\\i1}anh ấy sẽ là giáo viên chủ nhiệm của mình.{\\i}"
+    },
+    {
+      "start": 311.77,
+      "end": 312.81,
+      "text": "{\\i1}Mình vui lắm.{\\i}"
+    },
+    {
+      "start": 315.02,
+      "end": 318.11,
+      "text": "{\\i1}Bây giờ, mình có thể gặp anh ấy{\\i}\\N{\\i1}mỗi ngày ở trường.{\\i}"
+    },
+    {
+      "start": 323.61,
+      "end": 325.49,
+      "text": "PHÒNG GIÁO VIÊN"
+    },
+    {
+      "start": 329.41,
+      "end": 331.41,
+      "text": "Anh... Thầy!"
+    },
+    {
+      "start": 333.75,
+      "end": 335.84000000000003,
+      "text": "Tôi không thoải mái với chúng lắm."
+    },
+    {
+      "start": 337.05,
+      "end": 339.3,
+      "text": "Thầy Kanai, học sinh của thầy kìa."
+    },
+    {
+      "start": 340.47,
+      "end": 343.3,
+      "text": "Ồ, em mang cho tôi tài liệu hả.\\NCảm ơn nhé."
+    },
+    {
+      "start": 345.85,
+      "end": 349.47,
+      "text": "{\\i1}Mình đã dõi theo Anh từ rất lâu rồi.{\\i}"
+    },
+    {
+      "start": 350.89,
+      "end": 354.23,
+      "text": "{\\i1}Vậy nên mình nhận ra trước cả anh ấy...{\\i}"
+    },
+    {
+      "start": 356.31,
+      "end": 358.44,
+      "text": "{\\i1}Anh ấy chưa từng có vẻ mặt đó.{\\i}"
+    },
+    {
+      "start": 360.82,
+      "end": 362.7,
+      "text": "{\\i1}Mình thật khờ!{\\i}"
+    },
+    {
+      "start": 363.57,
+      "end": 365.07,
+      "text": "{\\i1}Mình đã mất cảnh giác.{\\i}"
+    },
+    {
+      "start": 365.16,
+      "end": 369.45,
+      "text": "{\\i1}Không tin nổi{\\i}\\N{\\i1}con mụ trung niên ngu ngốc đó có thể...{\\i}"
+    },
+    {
+      "start": 380.42,
+      "end": 383.8,
+      "text": "Cháu không nghĩ là Hana dịu dàng{\\i1} {\\i}vậy đấy."
+    },
+    {
+      "start": 383.88,
+      "end": 384.76,
+      "text": "Thật sao?"
+    },
+    {
+      "start": 385.26,
+      "end": 388.47,
+      "text": "Nó chỉ lịch sự vì cháu ở đây thôi, Narumi."
+    },
+    {
+      "start": 388.89,
+      "end": 390.77,
+      "text": "Mẹ."
+    },
+    {
+      "start": 390.89,
+      "end": 391.93,
+      "text": "Rồi, được rồi."
+    },
+    {
+      "start": 393.98,
+      "end": 395.06,
+      "text": "Món này ngon quá."
+    },
+    {
+      "start": 395.77,
+      "end": 397.02,
+      "text": "Đương nhiên."
+    },
+    {
+      "start": 397.27,
+      "end": 400.4,
+      "text": "Mẹ em quả là một đầu bếp giỏi."
+    },
+    {
+      "start": 400.86,
+      "end": 402.61,
+      "text": "Ồ, cảm ơn cháu!"
+    },
+    {
+      "start": 402.78,
+      "end": 405.15,
+      "text": "Nhưng Hanabi cũng đã giúp cô đó."
+    },
+    {
+      "start": 405.24,
+      "end": 407.28,
+      "text": "Nó gần như chưa từng làm vậy đâu."
+    },
+    {
+      "start": 407.37,
+      "end": 408.87,
+      "text": "Mẹ!"
+    },
+    {
+      "start": 410.99,
+      "end": 413,
+      "text": "Nhưng nó thực sự rất ngon."
+    },
+    {
+      "start": 413.7,
+      "end": 415.25,
+      "text": "{\\i1}Bực mình quá.{\\i}"
+    },
+    {
+      "start": 415.96,
+      "end": 417.08,
+      "text": "Cảm ơn vì bữa ăn ạ."
+    },
+    {
+      "start": 417.17,
+      "end": 420.75,
+      "text": "{\\i1}Cảm thấy thật nhẹ nhõm{\\i}\\N{\\i1}bởi điều nhỏ nhặt như vậy.{\\i}"
+    },
+    {
+      "start": 421.3,
+      "end": 423.38,
+      "text": "{\\i1}Mặc dù nó không có nghĩa gì cả.{\\i}"
+    },
+    {
+      "start": 423.46,
+      "end": 425.01,
+      "text": "Ta là hàng xóm mà."
+    },
+    {
+      "start": 427.76,
+      "end": 429.93,
+      "text": "Đồ ăn tự làm là ngon nhất."
+    },
+    {
+      "start": 430.85,
+      "end": 433.27,
+      "text": "Chỉ có anh và bố ở nhà."
+    },
+    {
+      "start": 433.43,
+      "end": 435.52,
+      "text": "Cả hai đều không thể nấu ăn."
+    },
+    {
+      "start": 437.4,
+      "end": 438.65,
+      "text": "Anh không thể đợi..."
+    },
+    {
+      "start": 442.53,
+      "end": 445.74,
+      "text": "{\\i1}\"Anh không thể đợi đến khi{\\i}\\N{\\i1}có một người vợ tuyệt vời.\"{\\i}"
+    },
+    {
+      "start": 446.78,
+      "end": 448.41,
+      "text": "{\\i1}Đó là điều anh ấy luôn nói.{\\i}"
+    },
+    {
+      "start": 450.03,
+      "end": 452.33,
+      "text": "{\\i1}Anh ấy đã nói vậy từ hồi cấp hai,{\\i}"
+    },
+    {
+      "start": 452.40999999999997,
+      "end": 454.33,
+      "text": "{\\i1}nhưng dạo gần đây thì không.{\\i}"
+    },
+    {
+      "start": 455.08,
+      "end": 456,
+      "text": "{\\i1}Có phải vì...{\\i}"
+    },
+    {
+      "start": 457.42,
+      "end": 460.71,
+      "text": "{\\i1}giờ anh ấy đã có người đặc biệt{\\i}\\N{\\i1}trong tâm trí?{\\i}"
+    },
+    {
+      "start": 465.3,
+      "end": 467.3,
+      "text": "NGÀY HỘI"
+    },
+    {
+      "start": 469.47,
+      "end": 471.89,
+      "text": "Chà, Hana! Cậu đạt hạng nhất rồi!"
+    },
+    {
+      "start": 471.97,
+      "end": 473.22,
+      "text": "Tuyệt quá!"
+    },
+    {
+      "start": 473.31,
+      "end": 474.43,
+      "text": "Tớ ghen tị quá đấy."
+    },
+    {
+      "start": 475.1,
+      "end": 476.02,
+      "text": "Này."
+    },
+    {
+      "start": 476.68,
+      "end": 480.23,
+      "text": "Sao cậu không chạy cùng bố hay mẹ, Hanabi?"
+    },
+    {
+      "start": 481.86,
+      "end": 484.11,
+      "text": "Này, cậu nói đúng đấy! Anh ấy trẻ quá!"
+    },
+    {
+      "start": 484.19,
+      "end": 485.82,
+      "text": "Đó không phải là bố cậu ấy!"
+    },
+    {
+      "start": 486.36,
+      "end": 487.99,
+      "text": "Thật không công bằng!"
+    },
+    {
+      "start": 488.24,
+      "end": 490.74,
+      "text": "Gian lận, gian lận, gian lận..."
+    },
+    {
+      "start": 490.82,
+      "end": 491.95,
+      "text": "Thôi đi, Noriko!"
+    },
+    {
+      "start": 494.08,
+      "end": 494.91,
+      "text": "Hana..."
+    },
+    {
+      "start": 496.37,
+      "end": 497.66,
+      "text": "Đừng nói nữa."
+    },
+    {
+      "start": 499.12,
+      "end": 501.58,
+      "text": "Giày của cậu mới là không công bằng!"
+    },
+    {
+      "start": 502,
+      "end": 502.84,
+      "text": "Nghẹn lời."
+    },
+    {
+      "start": 504.13,
+      "end": 505.67,
+      "text": "Này, cậu ấy nói đúng!"
+    },
+    {
+      "start": 505.76,
+      "end": 507.88,
+      "text": "Cậu có đôi giày chạy bộ!"
+    },
+    {
+      "start": 507.97,
+      "end": 510.97,
+      "text": "Họ bảo chúng không được phép trong trường!"
+    },
+    {
+      "start": 511.76,
+      "end": 513.1,
+      "text": "Này, Noriko."
+    },
+    {
+      "start": 513.55,
+      "end": 515.47,
+      "text": "Con lại gây rắc rối ư?"
+    },
+    {
+      "start": 518.27,
+      "end": 519.19,
+      "text": "Hana."
+    },
+    {
+      "start": 519.94,
+      "end": 521.02,
+      "text": "Hana, thôi nào."
+    },
+    {
+      "start": 522.15,
+      "end": 522.98,
+      "text": "Hana."
+    },
+    {
+      "start": 525.69,
+      "end": 527.15,
+      "text": "Em không quan tâm đâu."
+    },
+    {
+      "start": 528.9,
+      "end": 532.45,
+      "text": "Chạy cùng anh đâu phải không công bằng."
+    },
+    {
+      "start": 533.82,
+      "end": 534.91,
+      "text": "Đúng vậy."
+    },
+    {
+      "start": 535.66,
+      "end": 536.49,
+      "text": "Hơn nữa..."
+    },
+    {
+      "start": 538.58,
+      "end": 542.83,
+      "text": "Cũng không bất công với anh\\Nkhi ăn bữa trưa mẹ em nấu."
+    },
+    {
+      "start": 544.42,
+      "end": 547.09,
+      "text": "Mẹ nói mẹ phải làm việc."
+    },
+    {
+      "start": 547.3,
+      "end": 549.3,
+      "text": "Cô ấy thức khuya để làm nó đó."
+    },
+    {
+      "start": 549.72,
+      "end": 552.64,
+      "text": "Nên ta phải đảm bảo rằng\\Nkhông được để đồ ăn thừa."
+    },
+    {
+      "start": 552.72,
+      "end": 553.55,
+      "text": "Vâng!"
+    },
+    {
+      "start": 556.35,
+      "end": 557.81,
+      "text": "Ngon quá!"
+    },
+    {
+      "start": 557.89,
+      "end": 559.52,
+      "text": "Cũng thường thôi."
+    },
+    {
+      "start": 559.73,
+      "end": 561.44,
+      "text": "NHOÀM NHOÀM"
+    },
+    {
+      "start": 562.94,
+      "end": 567.07,
+      "text": "Hana, em chưa biết trân trọng\\Nviệc có mẹ nấu ăn cho mình đâu."
+    },
+    {
+      "start": 567.57,
+      "end": 570.95,
+      "text": "Nhưng anh đã đi câu cá với bố anh mà."
+    },
+    {
+      "start": 572.36,
+      "end": 574.49,
+      "text": "Em không có bố."
+    },
+    {
+      "start": 575.03,
+      "end": 576.45,
+      "text": "Nên em ghen tị."
+    },
+    {
+      "start": 577.66,
+      "end": 578.83,
+      "text": "Anh hiểu mà."
+    },
+    {
+      "start": 582.29,
+      "end": 586.34,
+      "text": "Cả hai ta đều có thứ mà người kia ghen tị."
+    },
+    {
+      "start": 587.67,
+      "end": 591.3,
+      "text": "{\\i1}Anh em mình sẽ có thể giúp đỡ nhau{\\i}\\N{\\i1}khi thấy cô đơn.{\\i}"
+    },
+    {
+      "start": 607.94,
+      "end": 609.48,
+      "text": "{\\i1}Đồ nói dối.{\\i}"
+    },
+    {
+      "start": 619.24,
+      "end": 622.33,
+      "text": "Cô giáo Minagawa thật hấp dẫn."
+    },
+    {
+      "start": 622.5,
+      "end": 624.42,
+      "text": "Ý cậu là giáo viên dạy nhạc mới?"
+    },
+    {
+      "start": 624.5,
+      "end": 626.25,
+      "text": "Cô ấy xấp xỉ tuổi chúng ta, nhỉ?"
+    },
+    {
+      "start": 626.38,
+      "end": 629.59,
+      "text": "Này, Yasuraoka đang nhìn chúng ta kìa."
+    },
+    {
+      "start": 629.67,
+      "end": 631.76,
+      "text": "Thật sao? Là mình à?"
+    },
+    {
+      "start": 631.84,
+      "end": 633.51,
+      "text": "Đừng ngốc, đó là mình."
+    },
+    {
+      "start": 639.18,
+      "end": 640.64,
+      "text": "Cô rất xin lỗi."
+    },
+    {
+      "start": 641.1,
+      "end": 643.89,
+      "text": "Em ổn chứ? Có bị thương không?"
+    },
+    {
+      "start": 645.77,
+      "end": 647.06,
+      "text": "{\\i1}Mái tóc dài.{\\i}"
+    },
+    {
+      "start": 647.15,
+      "end": 649.11,
+      "text": "{\\i1}Áo len màu be nhạt.{\\i}"
+    },
+    {
+      "start": 649.19,
+      "end": 651.61,
+      "text": "{\\i1}Mùi dầu gội nồng nàn.{\\i}"
+    },
+    {
+      "start": 651.78,
+      "end": 653.74,
+      "text": "{\\i1}Phong cách trang điểm tự nhiên.{\\i}"
+    },
+    {
+      "start": 660.33,
+      "end": 662.2,
+      "text": "Cô giáo, đây ạ."
+    },
+    {
+      "start": 663.87,
+      "end": 666,
+      "text": "Cảm ơn nhé, Mugi."
+    },
+    {
+      "start": 666.21,
+      "end": 668.67,
+      "text": "Chúng ta đang ở trường, cô Minagawa."
+    },
+    {
+      "start": 668.96,
+      "end": 671.88,
+      "text": "Ồ, phải rồi."
+    },
+    {
+      "start": 671.96,
+      "end": 673.3,
+      "text": "{\\i1}Ai đây?{\\i}"
+    },
+    {
+      "start": 673.38,
+      "end": 675.63,
+      "text": "{\\i1}Lại một người hâm mộ của cô ấy nữa à?{\\i}"
+    },
+    {
+      "start": 679.14,
+      "end": 680.1,
+      "text": "{\\i1}Không.{\\i}"
+    },
+    {
+      "start": 681.22,
+      "end": 684.06,
+      "text": "{\\i1}Mình biết ánh mắt ấy.{\\i}"
+    },
+    {
+      "start": 685.94,
+      "end": 686.77,
+      "text": "Này."
+    },
+    {
+      "start": 694.99,
+      "end": 697.86,
+      "text": "{\\i1}Cậu có biết cô ấy thích ai không?{\\i}"
+    },
+    {
+      "start": 700.28,
+      "end": 701.2,
+      "text": "{\\i1}Tôi biết.{\\i}"
+    },
+    {
+      "start": 704.5,
+      "end": 706,
+      "text": "Quả là một sự trùng hợp!"
+    },
+    {
+      "start": 706.08,
+      "end": 709.08,
+      "text": "Cô Akane là gia sư của tôi hồi cấp hai."
+    },
+    {
+      "start": 709.75,
+      "end": 714.17,
+      "text": "Tôi chưa bao giờ nghĩ cô ấy sẽ trở thành\\Ngiáo viên cấp ba của tôi."
+    },
+    {
+      "start": 714.92,
+      "end": 718.43,
+      "text": "Tôi đã nghĩ mình thật may mắn."
+    },
+    {
+      "start": 720.97,
+      "end": 722.3,
+      "text": "Cậu có nghe không đấy?"
+    },
+    {
+      "start": 723.47,
+      "end": 726.6,
+      "text": "Người phụ nữ như thế có gì hay chứ, Anh?"
+    },
+    {
+      "start": 726.68,
+      "end": 728.56,
+      "text": "Này, đừng nói xấu cô Akane."
+    },
+    {
+      "start": 728.64,
+      "end": 732.86,
+      "text": "Phải rồi. Đàn ông thích\\Nnhững cô gái ngọt ngào, mắt nai ngây thơ."
+    },
+    {
+      "start": 732.94,
+      "end": 735.19,
+      "text": "{\\i1}Bọn mình đều là những kẻ ôm hận.{\\i}"
+    },
+    {
+      "start": 735.28,
+      "end": 736.94,
+      "text": "Tuyệt, tôi bực quá, đói quá."
+    },
+    {
+      "start": 737.03,
+      "end": 737.86,
+      "text": "Nghe này!"
+    },
+    {
+      "start": 737.95,
+      "end": 740.41,
+      "text": "{\\i1}Và cảm nhận càng sâu sắc hơn,{\\i}"
+    },
+    {
+      "start": 740.91,
+      "end": 742.45,
+      "text": "{\\i1}thì lại càng sầu muộn hơn.{\\i}"
+    },
+    {
+      "start": 744.66,
+      "end": 747.41,
+      "text": "THÁNG SÁU"
+    },
+    {
+      "start": 749.62,
+      "end": 751.71,
+      "text": "{\\i1}Và trước khi nhận ra,{\\i}"
+    },
+    {
+      "start": 752.21,
+      "end": 754.71,
+      "text": "{\\i1}bọn mình đã dành nhiều thời gian bên nhau.{\\i}"
+    },
+    {
+      "start": 756.38,
+      "end": 759.88,
+      "text": "Tôi mệt mỏi lắm rồi."
+    },
+    {
+      "start": 760.05,
+      "end": 762.26,
+      "text": "Đừng làm ướt giường tôi."
+    },
+    {
+      "start": 762.34,
+      "end": 765.31,
+      "text": "Tôi chỉ muốn bỏ học."
+    },
+    {
+      "start": 765.68,
+      "end": 767.43,
+      "text": "Cậu đang nói về thầy Kanai à?"
+    },
+    {
+      "start": 767.77,
+      "end": 768.73,
+      "text": "Cậu bỏ cuộc sao?"
+    },
+    {
+      "start": 771.23,
+      "end": 772.94,
+      "text": "Tôi sẽ không bao giờ bỏ cuộc."
+    },
+    {
+      "start": 773.27,
+      "end": 774.19,
+      "text": "Nhưng mà..."
+    },
+    {
+      "start": 774.4,
+      "end": 775.23,
+      "text": "Nhưng gì?"
+    },
+    {
+      "start": 785.37,
+      "end": 787.08,
+      "text": "{\\i1}Lúc đầu,{\\i}"
+    },
+    {
+      "start": 787.58,
+      "end": 789.25,
+      "text": "{\\i1}mình chỉ trêu đùa thôi.{\\i}"
+    },
+    {
+      "start": 795.42,
+      "end": 796.63,
+      "text": "Cậu làm tôi bất ngờ."
+    },
+    {
+      "start": 797.05,
+      "end": 799.63,
+      "text": "Thật sao? Tôi không nhận ra đấy."
+    },
+    {
+      "start": 807.01,
+      "end": 807.93,
+      "text": "Cậu buồn à?"
+    },
+    {
+      "start": 810.73,
+      "end": 812.44,
+      "text": "Cậu không buồn sao, Mugi?"
+    },
+    {
+      "start": 815.06,
+      "end": 819.82,
+      "text": "{\\i1}Mình nghĩ cả hai đứa đều nghĩ giống nhau.{\\i}"
+    },
+    {
+      "start": 825.91,
+      "end": 826.74,
+      "text": "Này."
+    },
+    {
+      "start": 829.41,
+      "end": 832.75,
+      "text": "Sao cậu không thử giả vờ tôi là \"Anh\"?"
+    },
+    {
+      "start": 840.55,
+      "end": 841.72,
+      "text": "{\\i1}Phải.{\\i}"
+    },
+    {
+      "start": 842.38,
+      "end": 847.14,
+      "text": "{\\i1}Mugi không có cảm xúc như vậy với mình.{\\i}"
+    },
+    {
+      "start": 848.06,
+      "end": 852.6,
+      "text": "{\\i1}Dù mình có xem Mugi là Mugi hay không,{\\i}"
+    },
+    {
+      "start": 853.64,
+      "end": 855.35,
+      "text": "điều đó không quan trọng."
+    },
+    {
+      "start": 856.48,
+      "end": 859.02,
+      "text": "{\\i1}Mình cũng chỉ là người thay thế.{\\i}"
+    },
+    {
+      "start": 862.07,
+      "end": 863.9,
+      "text": "Nhột quá."
+    },
+    {
+      "start": 865.03,
+      "end": 866.95,
+      "text": "Cậu có muốn làm việc này không?"
+    },
+    {
+      "start": 867.49,
+      "end": 869.29,
+      "text": "Cậu là người muốn mà."
+    },
+    {
+      "start": 870.24,
+      "end": 872.96,
+      "text": "Hơn nữa, trông cậu chả giống anh ấy."
+    },
+    {
+      "start": 873.08,
+      "end": 875.71,
+      "text": "Cậu đòi hỏi khắt khe quá đấy."
+    },
+    {
+      "start": 876.54,
+      "end": 878.38,
+      "text": "Tôi cũng đẹp trai, cậu biết mà."
+    },
+    {
+      "start": 887.55,
+      "end": 889.31,
+      "text": "Nhắm mắt lại đi."
+    },
+    {
+      "start": 890.76,
+      "end": 891.64,
+      "text": "{\\i1}Ừm.{\\i}"
+    },
+    {
+      "start": 892.1,
+      "end": 895.1,
+      "text": "{\\i1}Nếu bọn mình làm chuyện này,{\\i}\\N{\\i1}thật sự làm chuyện này.{\\i}"
+    },
+    {
+      "start": 904.24,
+      "end": 908.7,
+      "text": "{\\i1}Ôi, thật tào lao. Nếu mình tưởng tượng{\\i}\\N{\\i1}rằng cậu ấy là Anh...{\\i}"
+    },
+    {
+      "start": 909.7,
+      "end": 911.7,
+      "text": "{\\i1}Các đầu ngón tay mình đơ cứng lại.{\\i}"
+    },
+    {
+      "start": 911.83,
+      "end": 913.62,
+      "text": "{\\i1}Mọi thứ cảm giác thật xa cách.{\\i}"
+    },
+    {
+      "start": 913.7,
+      "end": 916.62,
+      "text": "{\\i1}Tất cả những gì mình có thể nghe{\\i}\\N{\\i1}là tiếng tim đập.{\\i}"
+    },
+    {
+      "start": 916.71,
+      "end": 918.88,
+      "text": "{\\i1}Vì đây là...{\\i}"
+    },
+    {
+      "start": 920.29,
+      "end": 924.63,
+      "text": "{\\i1}điều mà mình mong muốn từ anh ấy đã lâu.{\\i}"
+    },
+    {
+      "start": 932.22,
+      "end": 933.72,
+      "text": "{\\i1}Như có dòng điện.{\\i}"
+    },
+    {
+      "start": 940.44,
+      "end": 942.69,
+      "text": "Đó là nụ hôn đầu đấy."
+    },
+    {
+      "start": 943.23,
+      "end": 944.07,
+      "text": "Không đời nào."
+    },
+    {
+      "start": 944.82,
+      "end": 945.74,
+      "text": "Thật đấy."
+    },
+    {
+      "start": 947.15,
+      "end": 948.36,
+      "text": "Cảm giác thật tuyệt."
+    },
+    {
+      "start": 953.49,
+      "end": 954.54,
+      "text": "Một lần nữa."
+    },
+    {
+      "start": 967.22,
+      "end": 969.3,
+      "text": "{\\i1}Có một phần lo lắng trong mình...{\\i}"
+    },
+    {
+      "start": 971.05,
+      "end": 975.47,
+      "text": "{\\i1}rằng mình có thực sự là người thay thế{\\i}\\N{\\i1}đủ tốt cho cậu ấy hay không.{\\i}"
+    },
+    {
+      "start": 989.15,
+      "end": 990.28,
+      "text": "{\\i1}Không sao.{\\i}"
+    },
+    {
+      "start": 990.66,
+      "end": 991.78,
+      "text": "{\\i1}Đôi tay này...{\\i}"
+    },
+    {
+      "start": 992.87,
+      "end": 994.58,
+      "text": "{\\i1}và đôi tay của Anh.{\\i}"
+    },
+    {
+      "start": 995.49,
+      "end": 997.71,
+      "text": "{\\i1}Em xin lỗi, em xin lỗi.{\\i}"
+    },
+    {
+      "start": 1008.13,
+      "end": 1010.47,
+      "text": "{\\i1}Những điều mà Anh không làm...{\\i}"
+    },
+    {
+      "start": 1010.63,
+      "end": 1012.85,
+      "text": "{\\i1}Những điều anh ấy không làm cho mình{\\i}."
+    },
+    {
+      "start": 1014.1,
+      "end": 1016.22,
+      "text": "{\\i1}Những điều mình muốn làm.{\\i}"
+    },
+    {
+      "start": 1016.31,
+      "end": 1017.52,
+      "text": "CHẠM VÀO TỚ NỮA ĐI"
+    },
+    {
+      "start": 1018.48,
+      "end": 1020.31,
+      "text": "NỮA ĐI"
+    },
+    {
+      "start": 1034.28,
+      "end": 1036.12,
+      "text": "{\\i1}Mình không thể nhìn mặt cậu ấy.{\\i}"
+    },
+    {
+      "start": 1036.2,
+      "end": 1037.41,
+      "text": "{\\i1}Cậu ấy không nói gì.{\\i}"
+    },
+    {
+      "start": 1038.45,
+      "end": 1040.5,
+      "text": "{\\i1}Mình cũng phải cố giữ im lặng.{\\i}"
+    },
+    {
+      "start": 1041.25,
+      "end": 1045.21,
+      "text": "{\\i1}Mình không muốn nhắc cậu ấy nhớ{\\i}\\N{\\i1}đó là mình.{\\i}"
+    },
+    {
+      "start": 1045.5,
+      "end": 1046.46,
+      "text": "{\\i1}Tập trung.{\\i}"
+    },
+    {
+      "start": 1050.76,
+      "end": 1053.14,
+      "text": "{\\i1}Ồ, tốt.{\\i}"
+    },
+    {
+      "start": 1053.43,
+      "end": 1056.01,
+      "text": "{\\i1}Cậu ấy sẽ không thể nhìn mặt mình lúc này.{\\i}"
+    },
+    {
+      "start": 1057.68,
+      "end": 1060.23,
+      "text": "{\\i1}Mình phải nhớ mọi thứ có thể lúc này.{\\i}"
+    },
+    {
+      "start": 1062.44,
+      "end": 1063.69,
+      "text": "{\\i1}Càng nhiều càng tốt.{\\i}"
+    },
+    {
+      "start": 1071.65,
+      "end": 1074.07,
+      "text": "ANH"
+    },
+    {
+      "start": 1074.16,
+      "end": 1075.41,
+      "text": "Đó có thể là ai nhỉ?"
+    },
+    {
+      "start": 1077.12,
+      "end": 1077.99,
+      "text": "Xin lỗi."
+    },
+    {
+      "start": 1082.46,
+      "end": 1084.46,
+      "text": "\"CẢM ƠN VÌ BỮA TỐI HÔM TRƯỚC.\""
+    },
+    {
+      "start": 1084.54,
+      "end": 1085.42,
+      "text": "Tại sao{\\i1}...{\\i}?"
+    },
+    {
+      "start": 1089.8,
+      "end": 1091.22,
+      "text": "Cậu muốn dừng lại không?"
+    },
+    {
+      "start": 1092.67,
+      "end": 1095.55,
+      "text": "Dù sao thì, tôi nghĩ hôm nay đủ rồi."
+    },
+    {
+      "start": 1096.35,
+      "end": 1098.64,
+      "text": "Nhưng cậu có muốn tiếp tục\\Nlàm chuyện này không?"
+    },
+    {
+      "start": 1100.39,
+      "end": 1101.23,
+      "text": "Hay dừng lại?"
+    },
+    {
+      "start": 1105.65,
+      "end": 1108.98,
+      "text": "TRỞ LẠI THÁNG BẢY"
+    },
+    {
+      "start": 1111.61,
+      "end": 1112.44,
+      "text": "Tôi xin lỗi."
+    },
+    {
+      "start": 1114.53,
+      "end": 1115.53,
+      "text": "Tôi xin lỗi."
+    },
+    {
+      "start": 1115.99,
+      "end": 1118.41,
+      "text": "Tôi đã cho cậu câu trả lời, tạm biệt."
+    },
+    {
+      "start": 1119.28,
+      "end": 1120.37,
+      "text": "Đợi đã."
+    },
+    {
+      "start": 1121.7,
+      "end": 1124.58,
+      "text": "Tôi đã đợi một tuần\\Ncho câu trả lời của cậu đấy."
+    },
+    {
+      "start": 1124.92,
+      "end": 1127.04,
+      "text": "Cậu thật làm tôi mong đợi rất nhiều."
+    },
+    {
+      "start": 1131.59,
+      "end": 1134.22,
+      "text": "Không có gì tồi tệ hơn"
+    },
+    {
+      "start": 1134.93,
+      "end": 1138.76,
+      "text": "tình cảm của một người\\Nmà cậu chẳng hề quan tâm đến, đúng chứ?"
+    },
+    {
+      "start": 1147.69,
+      "end": 1150.11,
+      "text": "{\\i1}Chết tiệt. Đồ đạo đức giả.{\\i}"
+    },
+    {
+      "start": 1155.57,
+      "end": 1156.74,
+      "text": "{\\i1}Vào thời khắc đó,{\\i}"
+    },
+    {
+      "start": 1157.91,
+      "end": 1159.95,
+      "text": "{\\i1}Tôi không thể trả lời cậu ấy.{\\i}"
+    },
+    {
+      "start": 1161.79,
+      "end": 1163.62,
+      "text": "{\\i1}Mình không thể từ bỏ.{\\i}"
+    },
+    {
+      "start": 1165.12,
+      "end": 1166.5,
+      "text": "{\\i1}Ý mình không phải Mugi.{\\i}"
+    },
+    {
+      "start": 1168.33,
+      "end": 1172.46,
+      "text": "{\\i1}Mà là Anh người mà mình thấy qua Mugi.  {\\i}"
+    },
+    {
+      "start": 1175.76,
+      "end": 1177.38,
+      "text": "{\\i1}Đó là lý do tại sao mình...{\\i}"
+    },
+    {
+      "start": 1181.89,
+      "end": 1183.97,
+      "text": "{\\i1}Tôi ngạc nhiên khi cậu tới đây đấy.{\\i}"
+    },
+    {
+      "start": 1189.65,
+      "end": 1191.48,
+      "text": "Tôi không nghĩ cậu sẽ quay lại."
+    },
+    {
+      "start": 1203.95,
+      "end": 1207.21,
+      "text": "Cậu muốn nói là chúng ta đang hẹn hò à?"
+    },
+    {
+      "start": 1207.33,
+      "end": 1208.17,
+      "text": "Gì cơ?"
+    },
+    {
+      "start": 1208.71,
+      "end": 1211.71,
+      "text": "Ta có thể dựa vào nhau nếu cần."
+    },
+    {
+      "start": 1212.29,
+      "end": 1215.92,
+      "text": "Cậu có chắc sẽ không rung động bởi tôi?"
+    },
+    {
+      "start": 1216.22,
+      "end": 1218.05,
+      "text": "Không. Tôi hứa đấy."
+    },
+    {
+      "start": 1218.51,
+      "end": 1220.51,
+      "text": "Cậu không phải mẫu người của tôi."
+    },
+    {
+      "start": 1223.35,
+      "end": 1224.64,
+      "text": "Cậu cũng vậy."
+    },
+    {
+      "start": 1226.31,
+      "end": 1229.6,
+      "text": "{\\i1}Và vì thế bọn mình đã lập một giao ước.{\\i}"
+    },
+    {
+      "start": 1230.15,
+      "end": 1233.36,
+      "text": "{\\i1}Rằng không ai trong bọn mình{\\i}\\N{\\i1}rung động trước nhau.{\\i}"
+    },
+    {
+      "start": 1233.44,
+      "end": 1236.36,
+      "text": "{\\i1}Nếu một trong hai{\\i}\\N{\\i1}đến được với người mình yêu,{\\i}"
+    },
+    {
+      "start": 1236.49,
+      "end": 1238.15,
+      "text": "{\\i1}mối quan hệ này sẽ chấm dứt.{\\i}"
+    },
+    {
+      "start": 1238.78,
+      "end": 1239.99,
+      "text": "{\\i1}Nói cách khác,{\\i}"
+    },
+    {
+      "start": 1240.61,
+      "end": 1243.58,
+      "text": "{\\i1}cậu có thể có mọi thứ trừ cảm xúc của tôi.{\\i}"
+    },
+    {
+      "start": 1246.29,
+      "end": 1250.54,
+      "text": "{\\i1}Vậy là về cơ bản chúng ta là bạn bè với...{\\i}"
+    },
+    {
+      "start": 1250.62,
+      "end": 1252.25,
+      "text": "Không, không, không."
+    },
+    {
+      "start": 1253.09,
+      "end": 1254.09,
+      "text": "Ta không làm thế."
+    },
+    {
+      "start": 1254.5,
+      "end": 1255.75,
+      "text": "Ta đã không làm tình."
+    },
+    {
+      "start": 1256.63,
+      "end": 1258.47,
+      "text": "Và có lẽ sau này cũng không."
+    },
+    {
+      "start": 1260.72,
+      "end": 1261.72,
+      "text": "Thật sao?"
+    },
+    {
+      "start": 1264.64,
+      "end": 1266.64,
+      "text": "{\\i1}Nếu một trong hai đứa thấy cô đơn,{\\i}"
+    },
+    {
+      "start": 1266.72,
+      "end": 1268.68,
+      "text": "{\\i1}có gì sai khi muốn được người kia ôm lấy?{\\i}"
+    },
+    {
+      "start": 1269.56,
+      "end": 1272.35,
+      "text": "Có phải vì tôi còn trinh không?"
+    },
+    {
+      "start": 1272.44,
+      "end": 1274.69,
+      "text": "Sao? Cậu đang nói gì vậy?"
+    },
+    {
+      "start": 1276.94,
+      "end": 1279.11,
+      "text": "{\\i1}Bọn mình sẽ biến nó thành sự thật...{\\i}"
+    },
+    {
+      "start": 1279.32,
+      "end": 1281.11,
+      "text": "{\\i1}Ước muốn của những kẻ nhơ bẩn.{\\i}"
+    },
+    {
+      "start": 1368.49,
+      "end": 1370.58,
+      "text": "Biên dịch: Trang Doan"
+    }
+  ]
+}

@@ -1,5 +1,10 @@
+
+
 (async () => {
     console.log("✅ CrunchySub Extension loaded");
+
+    const res = await fetch(chrome.runtime.getURL("data/Scum.json"));
+    const file = await res.json();
   
     const waitForVideo = () => new Promise(resolve => {
       const check = setInterval(() => {
@@ -26,21 +31,39 @@
     const subLayer = await waitForContainer();
   
     // Sub sample (bạn có thể load từ API hoặc file)
-    const subs = [
-      { start: 1, end: 3, text: "chú nigg code lỏ chửi Lập già" },
-      { start: 5, end: 10 , text: "Chúc bạn xem vui vẻ." }
-    ];
+    const subs = file.events
+
+    console.log(subs);
+    
   
     // Style vùng phụ đề
-    const text = document.createElement("div");
+/*     const text = document.createElement("div");
     text.id = "custom-sub";
-    subLayer.appendChild(text);
+    subLayer.appendChild(text); */
   
     // Render sub
     setInterval(() => {
       const time = video.currentTime;
-      const active = subs.find(s => time >= s.start && time <= s.end);
-      text.textContent = active ? active.text : "";
+    
+      // Lọc các sub đang active
+      const active = subs.filter(s => time >= s.start && time <= s.end);
+    
+      // Xoá phụ đề cũ (nếu có)
+      const oldSubs = document.querySelectorAll(".custom-sub");
+      oldSubs.forEach(el => el.remove());
+    
+      // Tạo lại từng dòng sub mới
+      active.forEach(a => {
+        const text = document.createElement("div");
+        text.className = "custom-sub";
+        text.textContent = a.text;
+    
+        // Style inline (nếu không dùng default)
+        
+        
+        subLayer.appendChild(text);
+      });
     }, 200);
+    
   })();
   
