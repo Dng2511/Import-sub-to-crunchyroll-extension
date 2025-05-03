@@ -15,12 +15,23 @@
         }
       }, 300);
     });
+
+    const waitForSubtitleMenu = () => new Promise(resolve => {
+      const check = setInterval(() => {
+        const subtitleMenu = document.querySelector('[data-testid="vilos-settings_texttrack_submenu_item"]');
+        if (subtitleMenu) {
+          console.log("Found subtitle menu");
+          clearInterval(check);
+          resolve(subtitleMenu);
+        }
+      }, 100); // Kiểm tra mỗi 100ms
+    });
   
     const waitForContainer = () => new Promise(resolve => {
       const check = setInterval(() => {
         const container = document.getElementById("vilosVttJs");
         if (container) {
-          console.log("✅ find vilosVttJs");
+          console.log("find vilosVttJs");
           clearInterval(check);
           resolve(container);
         }
@@ -29,11 +40,17 @@
   
     const video = await waitForVideo();
     const subLayer = await waitForContainer();
+    const subtitleMenu = waitForSubtitleMenu();
+
+    
   
     // Sub sample (bạn có thể load từ API hoặc file)
     const subs = file.events
 
     console.log(subs);
+    /* const customSub = document.createElement("css-1dbjc4n");
+    customSub.textContent = "Custom";
+    subtitleMenu.appendChild(customSub); */
     
   
     // Style vùng phụ đề
